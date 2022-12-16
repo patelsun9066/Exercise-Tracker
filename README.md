@@ -1,4 +1,4 @@
-Front-End React App for Exercise Tracking Journal App!
+<H1>Front-End React App for Exercise Tracking Journal App!<H1>
 
 Frontend Technologies Used: React.js, JavaScript, HTML, and CSS
 
